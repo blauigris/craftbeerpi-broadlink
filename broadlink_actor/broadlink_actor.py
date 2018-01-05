@@ -2,7 +2,7 @@ from modules import cbpi
 from modules.core.hardware import ActorBase
 from modules.core.props import Property
 
-from broadlink_actor.util import get_device
+from .util import get_device
 
 
 @cbpi.actor
