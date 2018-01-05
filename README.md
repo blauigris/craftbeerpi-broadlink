@@ -16,7 +16,7 @@ to the plugin path of crafbeerpi.
 
     git clone https://github.com/blauigris/craftbeerpi-broadlink.git
     cd craftbeerpi-broadlink
-    cp -r craftbeerpi-broadlink <PATH TO CRAFTBEERPI ROOT>/modules/plugins
+    cp -r broadlink_actor <PATH TO CRAFTBEERPI ROOT>/modules/plugins
     cd ..
     rm -rf craftbeerpi-broadlink
     
